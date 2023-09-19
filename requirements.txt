@@ -1,1 +1,5 @@
-streamlit>=1.26.0
+streamlit
+openai
+langchain
+pandas
+tabulate
